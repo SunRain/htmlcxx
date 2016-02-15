@@ -31,8 +31,8 @@
 
 PROGRAM=libtool
 PACKAGE=libtool
-VERSION=2.4.6
-package_revision=2.4.6
+VERSION=2.4.2
+package_revision=1.3337
 
 
 ## ------ ##
